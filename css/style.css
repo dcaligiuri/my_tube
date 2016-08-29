@@ -1,0 +1,144 @@
+h5 {
+    visibility: hidden;
+}
+
+
+
+
+#hr{
+  margin-top : 0px;
+  padding-bottom : 10px;
+  margin-bottom : 0px;
+  border-color : lightgray;
+  background-color : white; 
+}
+
+#show-more {
+  background-color : white;
+  padding-bottom : 10px;
+}
+
+
+
+
+#ellipsis {
+  margin-top : 7px;
+  margin-left : 5px;
+  margin-right : 4px;
+}
+
+#more {
+  padding-top : 5px;
+}
+
+#thumbs-section p {
+  margin-top : 4px;
+}
+
+#plus-sign{
+  margin-top : 0px;
+  margin-bottom : 0px;
+}
+
+
+
+#published{
+  background-color : white;
+  margin-bottom : 0px;
+  padding-top : 10px;
+  padding-bottom : 20px;
+  padding-left : 10px;
+  margin-top: -800px;
+}
+
+#published-inside {
+   
+}
+
+#pub-description{
+  background-color : white; 
+}
+
+#add-to {
+  padding-top : 5px;
+}
+
+#arrow {
+  padding-top : 12px;
+  padding-left : 10px;
+}
+
+#share {
+  padding-top : 5px;
+}
+
+
+
+#plus {
+  font-size : 150%;
+}
+
+.btn {
+  background-color : rgb(235,235,235)
+}
+
+
+#video-creator {
+  margin-bottom : 3px;
+}
+
+#video-title {
+    margin-top : 10px;
+}
+
+#first-video{
+  margin-bottom : 10px;
+}
+
+#line {
+  margin-top : 5px;
+}
+
+
+#up {
+  margin-top : 15px;
+}
+
+.suggested-vids .col-lg-6 p{
+  margin-bottom : .5px;
+}
+
+.suggested-vids .col-lg-6 {
+  margin-bottom : 10px;
+}
+
+#body {
+  background-color : lightgray;
+  margin-top : 60px;
+}
+
+#upload {
+  margin-top : 9px;
+  position: relative;
+  right : 30px;
+}
+
+#pro-pic {
+  margin-top : 5px;
+}
+
+.up-next {
+  background-color : white; 
+}
+
+.col-lg-12 {
+  background-color : white;
+}
+
+.subscription-bar {
+  background-color : white; 
+}
+
+
+
+
